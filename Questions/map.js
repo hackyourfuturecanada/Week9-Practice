@@ -1,6 +1,5 @@
-// Q: Return all of the pets that are cats
-// Q: Return all of the pets that are not a dog or a cat
-// Q: Return all of the pets that have a name starting with the letter 'C'
+// Q: Return an array of just the names of the animals
+// Q: Return an array of string with "<name> is a <species>", e.g. "Cameron is a cat"
 const pets = [{
     name: 'Cameron',
     species: 'cat'
@@ -24,8 +23,7 @@ const pets = [{
     species: 'guinea pig'
 }];
 
-// Q: Return a list of kittens who have an age equal to or less than the kittenCutOffAge
-
+// Q: Add a new property, "kitten: true" to these cats if their age is less than or equal to 1
 const cats = [
     {name: 'Lucy', age: 0.3},
     {name: 'Katy', age: 0.3},
@@ -35,5 +33,3 @@ const cats = [
     {name: 'Flip', age: 0.7},
     {name: 'Creme Puff', age: 30}
     ];
-  
-const kittenCutOffAge = 1;
