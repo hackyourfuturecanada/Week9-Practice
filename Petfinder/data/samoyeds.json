@@ -1,0 +1,1677 @@
+{
+  "animals": [
+    {
+      "id": 45987609,
+      "organization_id": "CA1866",
+      "url": "https:\/\/www.petfinder.com\/dog\/doggett-45987609\/ca\/long-beach\/ghetto-rescue-ffoundation-ca1866\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Golden Retriever",
+        "secondary": "Samoyed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White \/ Cream",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "DOGGETT",
+      "description": "THIS DOG IS AVAILABLE TODAY!\n\nFOR INFORMATION ON THE ADOPTION PROCESS, APPLICATIONS &amp; ADOPTION FEE, PLEASE VISIT:\n\nwww.GhettoRescue.org\n\nDogett has...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45987609\/1\/?bust=1568654884&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45987609\/1\/?bust=1568654884&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45987609\/1\/?bust=1568654884&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45987609\/1\/?bust=1568654884"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45987609\/2\/?bust=1568654886&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45987609\/2\/?bust=1568654886&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45987609\/2\/?bust=1568654886&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45987609\/2\/?bust=1568654886"
+        }
+      ],
+      "status": "adopted",
+      "status_changed_at": "2019-09-17T17:47:49+0000",
+      "published_at": "2019-09-16T17:29:57+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@ghettorescue.org",
+        "phone": "(714) 924-4733",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Long Beach",
+          "state": "CA",
+          "postcode": "90814",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45987609"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca1866"
+        }
+      }
+    },
+    {
+      "id": 45983828,
+      "organization_id": "ON557",
+      "url": "https:\/\/www.petfinder.com\/dog\/balto-45983828\/on\/toronto\/homebound-houndz-on557\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "German Shepherd Dog",
+        "secondary": "Samoyed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "balto",
+      "description": "This is Balto.\nHe was found as a stray in Turkey. He is still in Turkey, and will fly to...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/4\/?bust=1568599780&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/4\/?bust=1568599780&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/4\/?bust=1568599780&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/4\/?bust=1568599780"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/1\/?bust=1568599775&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/1\/?bust=1568599775&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/1\/?bust=1568599775&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/1\/?bust=1568599775"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/2\/?bust=1568599777&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/2\/?bust=1568599777&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/2\/?bust=1568599777&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/2\/?bust=1568599777"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/3\/?bust=1568599778&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/3\/?bust=1568599778&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/3\/?bust=1568599778&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45983828\/3\/?bust=1568599778"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-16T02:10:57+0000",
+      "published_at": "2019-09-16T02:10:57+0000",
+      "distance": null,
+      "contact": {
+        "email": "edogrescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Toronto",
+          "state": "ON",
+          "postcode": "M5S 2X8",
+          "country": "CA"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45983828"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/on557"
+        }
+      }
+    },
+    {
+      "id": 45979643,
+      "organization_id": "OH1112",
+      "url": "https:\/\/www.petfinder.com\/dog\/winter-45979643\/oh\/westlake\/hunters-hope-dog-rescue-oh1112\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Eskimo Dog",
+        "secondary": "Samoyed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White \/ Cream",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Winter",
+      "description": "MEET WINTER!\nWinter is an adorable 3-4 yo, Eskie\/Samoyed\/Spitz\/Mix(!best guess) with a gorgeous soft fluffy coat. She is a petite...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/2\/?bust=1568562213&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/2\/?bust=1568562213&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/2\/?bust=1568562213&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/2\/?bust=1568562213"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/1\/?bust=1568562211&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/1\/?bust=1568562211&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/1\/?bust=1568562211&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/1\/?bust=1568562211"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/3\/?bust=1568562215&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/3\/?bust=1568562215&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/3\/?bust=1568562215&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/3\/?bust=1568562215"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/4\/?bust=1568562216&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/4\/?bust=1568562216&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/4\/?bust=1568562216&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/4\/?bust=1568562216"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/5\/?bust=1568562218&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/5\/?bust=1568562218&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/5\/?bust=1568562218&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/5\/?bust=1568562218"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/6\/?bust=1568562219&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/6\/?bust=1568562219&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/6\/?bust=1568562219&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45979643\/6\/?bust=1568562219"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-15T15:55:34+0000",
+      "published_at": "2019-09-15T15:55:34+0000",
+      "distance": null,
+      "contact": {
+        "email": "huntershoperescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Westlake",
+          "state": "OH",
+          "postcode": "44145",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45979643"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/oh1112"
+        }
+      }
+    },
+    {
+      "id": 45976060,
+      "organization_id": "CA607",
+      "url": "https:\/\/www.petfinder.com\/dog\/oso-45976060\/ca\/downey\/l-dot-a-county-animal-care-and-control-downey-ca607\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": "Siberian Husky",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "OSO",
+      "description": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45976060\/1\/?bust=1568505953&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45976060\/1\/?bust=1568505953&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45976060\/1\/?bust=1568505953&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45976060\/1\/?bust=1568505953"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-14T23:02:53+0000",
+      "published_at": "2019-09-14T23:02:53+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(562) 940-6898",
+        "address": {
+          "address1": "11258 S. Garfield Avenue",
+          "address2": null,
+          "city": "Downey",
+          "state": "CA",
+          "postcode": "90242",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45976060"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca607"
+        }
+      }
+    },
+    {
+      "id": 45936886,
+      "organization_id": "NC948",
+      "url": "https:\/\/www.petfinder.com\/dog\/rudy-45936886\/nc\/waxhaw\/south-charlotte-dog-rescue-nc948\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Rudy",
+      "description": "Meet Rudy, a playful and curious, 50 pound, 1 year old Samoyed. He can be a little timid in new...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45936886\/1\/?bust=1568197023&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45936886\/1\/?bust=1568197023&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45936886\/1\/?bust=1568197023&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45936886\/1\/?bust=1568197023"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45936886\/2\/?bust=1568197023&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45936886\/2\/?bust=1568197023&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45936886\/2\/?bust=1568197023&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45936886\/2\/?bust=1568197023"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-11T10:15:07+0000",
+      "published_at": "2019-09-11T10:15:07+0000",
+      "distance": null,
+      "contact": {
+        "email": "southcharlottedogrescue@gmail.com",
+        "phone": "(877) 745-7237",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Waxhaw",
+          "state": "NC",
+          "postcode": "28173",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45936886"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/nc948"
+        }
+      }
+    },
+    {
+      "id": 45935459,
+      "organization_id": "IA50",
+      "url": "https:\/\/www.petfinder.com\/dog\/meeka-45935459\/ia\/newton\/jasper-co-animal-rescue-league-and-humane-society-ia50\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shar-Pei",
+        "secondary": "Samoyed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Yellow \/ Tan \/ Blond \/ Fawn",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Meeka",
+      "description": "Meeka is a 7 1\/2 year old Shar-Pei looking for a forever home. Meeka originally came from a puppy mill...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/1\/?bust=1568175847&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/1\/?bust=1568175847&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/1\/?bust=1568175847&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/1\/?bust=1568175847"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/2\/?bust=1568175852&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/2\/?bust=1568175852&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/2\/?bust=1568175852&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/2\/?bust=1568175852"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/3\/?bust=1568175857&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/3\/?bust=1568175857&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/3\/?bust=1568175857&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45935459\/3\/?bust=1568175857"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-11T04:24:38+0000",
+      "published_at": "2019-09-11T04:24:38+0000",
+      "distance": null,
+      "contact": {
+        "email": "shelter-IA50@petfinder.com",
+        "phone": null,
+        "address": {
+          "address1": "5411 Liberty Ave",
+          "address2": null,
+          "city": "Newton",
+          "state": "IA",
+          "postcode": "50054",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45935459"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ia50"
+        }
+      }
+    },
+    {
+      "id": 45928259,
+      "organization_id": "MN419",
+      "url": "https:\/\/www.petfinder.com\/dog\/test-name-samoyed-45928259\/ak\/bettles\/test-shelter-mn419\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Test Name Samoyed",
+      "description": "Verifying breed names for https:\/\/petfinder.atlassian.net\/browse\/PBT-12102",
+      "photos": [],
+      "status": "found",
+      "status_changed_at": "2019-09-10T16:43:03+0000",
+      "published_at": "2019-09-10T16:43:03+0000",
+      "distance": null,
+      "contact": {
+        "email": "daholbro+org@nerdery.com",
+        "phone": null,
+        "address": {
+          "address1": "12345 Fake Street",
+          "address2": null,
+          "city": "Bettles",
+          "state": "AK",
+          "postcode": "99726",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45928259"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/mn419"
+        }
+      }
+    },
+    {
+      "id": 45927941,
+      "organization_id": "MN419",
+      "url": "https:\/\/www.petfinder.com\/dog\/test-alt-name-samoyedskaya-and-gt-samoyed-45927941\/ak\/bettles\/test-shelter-mn419\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Test Alt Name Samoyedskaya &gt; Samoyed",
+      "description": "Updates for https:\/\/git.petfinder.com\/petfinder\/pfimport\/issues\/235",
+      "photos": [],
+      "status": "found",
+      "status_changed_at": "2019-09-10T16:43:01+0000",
+      "published_at": "2019-09-10T16:43:01+0000",
+      "distance": null,
+      "contact": {
+        "email": "daholbro+org@nerdery.com",
+        "phone": null,
+        "address": {
+          "address1": "12345 Fake Street",
+          "address2": null,
+          "city": "Bettles",
+          "state": "AK",
+          "postcode": "99726",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45927941"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/mn419"
+        }
+      }
+    },
+    {
+      "id": 45902370,
+      "organization_id": "CA1902",
+      "url": "https:\/\/www.petfinder.com\/dog\/rocky-45902370\/ca\/westminster\/wags-westminster-adoption-group-and-services-ca1902\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Siberian Husky",
+        "secondary": "Samoyed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White \/ Cream",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Rocky",
+      "description": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45902370\/1\/?bust=1567894055&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45902370\/1\/?bust=1567894055&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45902370\/1\/?bust=1567894055&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45902370\/1\/?bust=1567894055"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45902370\/2\/?bust=1567894062&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45902370\/2\/?bust=1567894062&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45902370\/2\/?bust=1567894062&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45902370\/2\/?bust=1567894062"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-07T22:08:06+0000",
+      "published_at": "2019-09-07T22:08:06+0000",
+      "distance": null,
+      "contact": {
+        "email": "cortney@wagspetadoption.org",
+        "phone": "(714) 887-6156",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Westminster",
+          "state": "CA",
+          "postcode": "92683",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45902370"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca1902"
+        }
+      }
+    },
+    {
+      "id": 45866674,
+      "organization_id": "ID01",
+      "url": "https:\/\/www.petfinder.com\/dog\/lola-45866674\/id\/caldwell\/west-valley-humane-society-id01\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": "Siberian Husky",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White \/ Cream",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Lola",
+      "description": "All dogs adopted from West Valley Humane Society are up to date on vaccines, microchipped, parasite treated and spayed\/neutered.  \n\nPetFinder...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/4\/?bust=1567638797&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/4\/?bust=1567638797&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/4\/?bust=1567638797&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/4\/?bust=1567638797"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/1\/?bust=1567638760&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/1\/?bust=1567638760&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/1\/?bust=1567638760&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/1\/?bust=1567638760"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/2\/?bust=1567638783&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/2\/?bust=1567638783&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/2\/?bust=1567638783&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/2\/?bust=1567638783"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/3\/?bust=1567638790&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/3\/?bust=1567638790&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/3\/?bust=1567638790&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/3\/?bust=1567638790"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/5\/?bust=1567638805&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/5\/?bust=1567638805&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/5\/?bust=1567638805&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45866674\/5\/?bust=1567638805"
+        }
+      ],
+      "status": "adopted",
+      "status_changed_at": "2019-09-09T16:13:33+0000",
+      "published_at": "2019-09-04T23:13:44+0000",
+      "distance": null,
+      "contact": {
+        "email": "kierra@westvalleyhumanesociety.org",
+        "phone": "(208) 455-5920",
+        "address": {
+          "address1": "5801 Graye Lane",
+          "address2": null,
+          "city": "Caldwell",
+          "state": "ID",
+          "postcode": "83607",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45866674"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/id01"
+        }
+      }
+    },
+    {
+      "id": 45847826,
+      "organization_id": "CA1571",
+      "url": "https:\/\/www.petfinder.com\/dog\/blaze-8-135-19-45847826\/ca\/grass-valley\/sammies-friends-animal-shelter-ca1571\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White \/ Cream",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Blaze  8-135-19",
+      "description": "Blaze came in the shelter very matted and full of foxtails.  He went straight to the vet and got shaved...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/2\/?bust=1568405160&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/2\/?bust=1568405160&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/2\/?bust=1568405160&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/2\/?bust=1568405160"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/1\/?bust=1567634816&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/1\/?bust=1567634816&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/1\/?bust=1567634816&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/1\/?bust=1567634816"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/3\/?bust=1567634817&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/3\/?bust=1567634817&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/3\/?bust=1567634817&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/3\/?bust=1567634817"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/4\/?bust=1567634817&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/4\/?bust=1567634817&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/4\/?bust=1567634817&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45847826\/4\/?bust=1567634817"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-13T18:32:56+0000",
+      "published_at": "2019-09-03T15:36:55+0000",
+      "distance": null,
+      "contact": {
+        "email": "petfinder@sammiesfriends.org",
+        "phone": null,
+        "address": {
+          "address1": "14647 McCourtney Rd.",
+          "address2": null,
+          "city": "Grass Valley",
+          "state": "CA",
+          "postcode": "95949",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45847826"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca1571"
+        }
+      }
+    },
+    {
+      "id": 45844202,
+      "organization_id": "NJ742",
+      "url": "https:\/\/www.petfinder.com\/dog\/pearl-and-aspen-45844202\/nj\/succasunna\/cold-nose-warm-heart-dog-rescue-nj742\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Pearl & Aspen",
+      "description": "This adorable duo of 6 week old puppies is ready for homes to call their own! They will be ready...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/3\/?bust=1567471020&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/3\/?bust=1567471020&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/3\/?bust=1567471020&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/3\/?bust=1567471020"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/1\/?bust=1567471017&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/1\/?bust=1567471017&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/1\/?bust=1567471017&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/1\/?bust=1567471017"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/2\/?bust=1567471019&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/2\/?bust=1567471019&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/2\/?bust=1567471019&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/2\/?bust=1567471019"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/4\/?bust=1567471034&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/4\/?bust=1567471034&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/4\/?bust=1567471034&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/4\/?bust=1567471034"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/5\/?bust=1567471037&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/5\/?bust=1567471037&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/5\/?bust=1567471037&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45844202\/5\/?bust=1567471037"
+        }
+      ],
+      "status": "adopted",
+      "status_changed_at": "2019-09-14T19:37:32+0000",
+      "published_at": "2019-09-03T00:39:22+0000",
+      "distance": null,
+      "contact": {
+        "email": "coldnosewarmheartdogrescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": "P.O. Box 43",
+          "address2": null,
+          "city": "Succasunna",
+          "state": "NJ",
+          "postcode": "07876",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45844202"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/nj742"
+        }
+      }
+    },
+    {
+      "id": 45843686,
+      "organization_id": "WA311",
+      "url": "https:\/\/www.petfinder.com\/dog\/polar-from-korea-45843686\/wa\/shoreline\/gingers-death-row-dog-rescue-wa311\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": "Jindo",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Polar from Korea",
+      "description": "My name is Polar from Korea and I am a wonderful 6 month old Male Samoyed &amp;amp; Jindo Mix. I...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45843686\/1\/?bust=1568753925&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45843686\/1\/?bust=1568753925&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45843686\/1\/?bust=1568753925&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45843686\/1\/?bust=1568753925"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-02T23:56:49+0000",
+      "published_at": "2019-09-02T23:56:49+0000",
+      "distance": null,
+      "contact": {
+        "email": "ginger@gingerspetrescue.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Shoreline",
+          "state": "WA",
+          "postcode": "98133",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45843686"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/wa311"
+        }
+      }
+    },
+    {
+      "id": 45816829,
+      "organization_id": "TX938",
+      "url": "https:\/\/www.petfinder.com\/dog\/deer-45816829\/tx\/quinlan\/texas-best-choices-animal-rescue-tx938\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Retriever",
+        "secondary": "Samoyed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Deer",
+      "description": "The below date was correct for when Deer came to us. Unfortunately many years have passed since 3\/1\/10. We have...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/1\/?bust=1568283464&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/1\/?bust=1568283464&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/1\/?bust=1568283464&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/1\/?bust=1568283464"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/3\/?bust=1568283465&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/3\/?bust=1568283465&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/3\/?bust=1568283465&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/3\/?bust=1568283465"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/2\/?bust=1568283466&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/2\/?bust=1568283466&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/2\/?bust=1568283466&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45816829\/2\/?bust=1568283466"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-08-31T10:17:05+0000",
+      "published_at": "2019-08-31T10:17:05+0000",
+      "distance": null,
+      "contact": {
+        "email": "allanc214@aol.com",
+        "phone": "(214) 535-5230",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Quinlan",
+          "state": "TX",
+          "postcode": "75474",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45816829"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/tx938"
+        }
+      }
+    },
+    {
+      "id": 45805158,
+      "organization_id": "NY1274",
+      "url": "https:\/\/www.petfinder.com\/dog\/daisy-45805158\/ny\/new-york\/rescue-dogs-rock-nyc-ny1274\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": "American Eskimo Dog",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Daisy",
+      "description": "You can fill out an adoption application online on our official website.Sweet Daisy is a mellow 8 year old Samoyed\/American...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/1\/?bust=1568744050&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/1\/?bust=1568744050&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/1\/?bust=1568744050&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/1\/?bust=1568744050"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/3\/?bust=1568744064&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/3\/?bust=1568744064&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/3\/?bust=1568744064&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/3\/?bust=1568744064"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/2\/?bust=1568744049&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/2\/?bust=1568744049&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/2\/?bust=1568744049&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45805158\/2\/?bust=1568744049"
+        }
+      ],
+      "status": "adopted",
+      "status_changed_at": "2019-08-31T04:14:41+0000",
+      "published_at": "2019-08-31T04:14:41+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@rescuedogsrocknyc.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "New York",
+          "state": "NY",
+          "postcode": "10075",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45805158"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ny1274"
+        }
+      }
+    },
+    {
+      "id": 45761656,
+      "organization_id": "CA1655",
+      "url": "https:\/\/www.petfinder.com\/dog\/yoshi-ritzy-45761656\/ca\/lindsay\/central-valley-rescue-railroad-ca1655\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Yoshi (Ritzy)",
+      "description": "You can fill out an adoption application online on our official website.Yoshi is a gogeous young Sammy cross with a...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/1\/?bust=1568154243&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/1\/?bust=1568154243&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/1\/?bust=1568154243&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/1\/?bust=1568154243"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/3\/?bust=1568154389&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/3\/?bust=1568154389&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/3\/?bust=1568154389&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/3\/?bust=1568154389"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/2\/?bust=1568154359&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/2\/?bust=1568154359&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/2\/?bust=1568154359&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761656\/2\/?bust=1568154359"
+        }
+      ],
+      "status": "adopted",
+      "status_changed_at": "2019-08-31T19:38:03+0000",
+      "published_at": "2019-08-27T18:57:56+0000",
+      "distance": null,
+      "contact": {
+        "email": "cvrr@cvrr.us",
+        "phone": "(559) 799-1775",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "LINDSAY",
+          "state": "CA",
+          "postcode": "93247",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45761656"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca1655"
+        }
+      }
+    },
+    {
+      "id": 45761199,
+      "organization_id": "ME152",
+      "url": "https:\/\/www.petfinder.com\/dog\/alpha-in-maine-45761199\/me\/topsham\/old-dogs-new-digs-me152\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White \/ Cream",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": false,
+        "dogs": true,
+        "cats": false
+      },
+      "tags": [
+        "Sweet"
+      ],
+      "name": "-Alpha in Maine",
+      "description": "This gorgeous Samoyed is 7 years old. Alpha is looking for a home experienced with his breed. He has recently,...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761199\/1\/?bust=1566929374&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761199\/1\/?bust=1566929374&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761199\/1\/?bust=1566929374&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761199\/1\/?bust=1566929374"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761199\/2\/?bust=1566929377&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761199\/2\/?bust=1566929377&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761199\/2\/?bust=1566929377&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45761199\/2\/?bust=1566929377"
+        }
+      ],
+      "status": "adopted",
+      "status_changed_at": "2019-09-16T01:24:09+0000",
+      "published_at": "2019-08-27T18:13:17+0000",
+      "distance": null,
+      "contact": {
+        "email": "woof@olddogsnewdigs.com",
+        "phone": null,
+        "address": {
+          "address1": "Topsham, Maine",
+          "address2": null,
+          "city": "Topsham",
+          "state": "ME",
+          "postcode": "04086",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45761199"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/me152"
+        }
+      }
+    },
+    {
+      "id": 45759490,
+      "organization_id": "DE71",
+      "url": "https:\/\/www.petfinder.com\/dog\/mal-45759490\/de\/milton\/grass-roots-rescue-de71\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Husky",
+        "secondary": "Samoyed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": false
+      },
+      "tags": [],
+      "name": "Mal",
+      "description": "„It’s so fluffy, I wanna die“ is a phrase you’re gonna be hearing a lot if you adopt Mal.\n\nMal...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/1\/?bust=1566922508&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/1\/?bust=1566922508&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/1\/?bust=1566922508&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/1\/?bust=1566922508"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/2\/?bust=1568467877&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/2\/?bust=1568467877&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/2\/?bust=1568467877&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/2\/?bust=1568467877"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/3\/?bust=1568467877&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/3\/?bust=1568467877&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/3\/?bust=1568467877&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45759490\/3\/?bust=1568467877"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-08-27T16:16:11+0000",
+      "published_at": "2019-08-27T16:16:11+0000",
+      "distance": null,
+      "contact": {
+        "email": "grassrootsde@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Milton",
+          "state": "DE",
+          "postcode": "19968",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45759490"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/de71"
+        }
+      }
+    },
+    {
+      "id": 45758847,
+      "organization_id": "PA95",
+      "url": "https:\/\/www.petfinder.com\/dog\/chico-45758847\/pa\/pottsville\/hillside-s-dot-pc-dot-a-pa95\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": "Husky",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Chico",
+      "description": "Chico is an 8 month old samoyed\/husky mix looking for a new home. He arrived at the shelter with his...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45758847\/2\/?bust=1566921526&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45758847\/2\/?bust=1566921526&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45758847\/2\/?bust=1566921526&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45758847\/2\/?bust=1566921526"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45758847\/1\/?bust=1566921524&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45758847\/1\/?bust=1566921524&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45758847\/1\/?bust=1566921524&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45758847\/1\/?bust=1566921524"
+        }
+      ],
+      "status": "adopted",
+      "status_changed_at": "2019-09-04T00:05:50+0000",
+      "published_at": "2019-08-27T15:59:28+0000",
+      "distance": null,
+      "contact": {
+        "email": "shelter_dogs1@hotmail.com",
+        "phone": "(570)-622-7769  ",
+        "address": {
+          "address1": "P.O. Box 233",
+          "address2": "51 SPCA Road",
+          "city": "Pottsville",
+          "state": "PA",
+          "postcode": "17901",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45758847"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa95"
+        }
+      }
+    },
+    {
+      "id": 45753395,
+      "organization_id": "CA710",
+      "url": "https:\/\/www.petfinder.com\/dog\/kona-45753395\/ca\/bell-gardens\/miracle-dog-rescue-ca710\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Samoyed",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White \/ Cream",
+        "secondary": "Yellow \/ Tan \/ Blond \/ Fawn",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "KONA",
+      "description": "KONA:  SAMOYED MIX \/ FEMALE\/ \/ 4 YEARS OLD\/ 45 POUNDS.\n\nKona is such a good Girl!  She is happy,...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/1\/?bust=1566865439&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/1\/?bust=1566865439&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/1\/?bust=1566865439&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/1\/?bust=1566865439"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/2\/?bust=1566865444&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/2\/?bust=1566865444&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/2\/?bust=1566865444&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/2\/?bust=1566865444"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/3\/?bust=1566865447&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/3\/?bust=1566865447&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/3\/?bust=1566865447&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/3\/?bust=1566865447"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/4\/?bust=1566865452&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/4\/?bust=1566865452&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/4\/?bust=1566865452&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/4\/?bust=1566865452"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/5\/?bust=1566951451&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/5\/?bust=1566951451&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/5\/?bust=1566951451&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/5\/?bust=1566951451"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/6\/?bust=1566951451&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/6\/?bust=1566951451&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/6\/?bust=1566951451&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/45753395\/6\/?bust=1566951451"
+        }
+      ],
+      "status": "adopted",
+      "status_changed_at": "2019-09-08T19:22:04+0000",
+      "published_at": "2019-08-27T00:24:42+0000",
+      "distance": null,
+      "contact": {
+        "email": "miracledogrescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Bell Gardens",
+          "state": "CA",
+          "postcode": "90201",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/45753395"
+        },
+        "type": {
+          "href": "\/v2\/types\/dog"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca710"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 2554,
+    "current_page": 1,
+    "total_pages": 128,
+    "_links": {
+      "next": {
+        "href": "\/v2\/animals?breed=samoyed&page=2"
+      }
+    }
+  }
+}

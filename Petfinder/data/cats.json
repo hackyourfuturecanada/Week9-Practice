@@ -1,0 +1,1552 @@
+{
+  "animals": [
+    {
+      "id": 46016694,
+      "organization_id": "PA967",
+      "url": "https:\/\/www.petfinder.com\/cat\/angus-46016694\/pa\/pittsburgh\/pittsburgh-c-dot-at-pa967\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown \/ Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Angus",
+      "description": "Angus here! I&#039;m a super handsome 4 month old guy looking for a fun, active home. I run, wrestle, climb...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/1\/?bust=1568785165&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/1\/?bust=1568785165&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/1\/?bust=1568785165&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/1\/?bust=1568785165"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/2\/?bust=1568785185&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/2\/?bust=1568785185&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/2\/?bust=1568785185&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/2\/?bust=1568785185"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/3\/?bust=1568785190&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/3\/?bust=1568785190&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/3\/?bust=1568785190&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/3\/?bust=1568785190"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/4\/?bust=1568785198&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/4\/?bust=1568785198&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/4\/?bust=1568785198&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/4\/?bust=1568785198"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/5\/?bust=1568785211&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/5\/?bust=1568785211&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/5\/?bust=1568785211&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/5\/?bust=1568785211"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/6\/?bust=1568785221&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/6\/?bust=1568785221&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/6\/?bust=1568785221&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016694\/6\/?bust=1568785221"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:41:17+0000",
+      "published_at": "2019-09-18T05:41:17+0000",
+      "distance": null,
+      "contact": {
+        "email": "pburghcat@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Pittsburgh",
+          "state": "PA",
+          "postcode": "15226",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016694"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa967"
+        }
+      }
+    },
+    {
+      "id": 46016698,
+      "organization_id": "LA384",
+      "url": "https:\/\/www.petfinder.com\/cat\/rue-46016698\/la\/baton-rouge\/forgotten-felines-rescue-la384\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Russian Blue",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Gray \/ Blue \/ Silver",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Rue",
+      "description": "Meet Rue! This unique 12 week old is the most quaint little girl. She was attacked and nearly killed by...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/1\/?bust=1568785018&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/1\/?bust=1568785018&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/1\/?bust=1568785018&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/1\/?bust=1568785018"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/2\/?bust=1568785020&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/2\/?bust=1568785020&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/2\/?bust=1568785020&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/2\/?bust=1568785020"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/3\/?bust=1568785022&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/3\/?bust=1568785022&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/3\/?bust=1568785022&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/3\/?bust=1568785022"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/4\/?bust=1568785023&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/4\/?bust=1568785023&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/4\/?bust=1568785023&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016698\/4\/?bust=1568785023"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:37:30+0000",
+      "published_at": "2019-09-18T05:37:30+0000",
+      "distance": null,
+      "contact": {
+        "email": "forgottenfelinesla@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Baton Rouge",
+          "state": "LA",
+          "postcode": "70809",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016698"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/la384"
+        }
+      }
+    },
+    {
+      "id": 46016359,
+      "organization_id": "MS01",
+      "url": "https:\/\/www.petfinder.com\/cat\/salsa-46016359\/ms\/flowood\/jackson-friends-of-animal-shelter-ms01\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Dilute Tortoiseshell",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "sweet",
+        "playful",
+        "entertaining",
+        "snuggly",
+        "loving"
+      ],
+      "name": "Salsa",
+      "description": "Hi!  My name is Salsa and I am looking for my furever family.  \nI don&#039;t want to brag, but I...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/1\/?bust=1568781563&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/1\/?bust=1568781563&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/1\/?bust=1568781563&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/1\/?bust=1568781563"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/3\/?bust=1568781610&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/3\/?bust=1568781610&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/3\/?bust=1568781610&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/3\/?bust=1568781610"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/4\/?bust=1568781621&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/4\/?bust=1568781621&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/4\/?bust=1568781621&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/4\/?bust=1568781621"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/5\/?bust=1568781644&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/5\/?bust=1568781644&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/5\/?bust=1568781644&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/5\/?bust=1568781644"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/6\/?bust=1568781680&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/6\/?bust=1568781680&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/6\/?bust=1568781680&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/6\/?bust=1568781680"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/2\/?bust=1568781867&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/2\/?bust=1568781867&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/2\/?bust=1568781867&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016359\/2\/?bust=1568781867"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:36:18+0000",
+      "published_at": "2019-09-18T05:36:18+0000",
+      "distance": null,
+      "contact": {
+        "email": "KIMHUTTON365@GMAIL.COM",
+        "phone": "6012381681",
+        "address": {
+          "address1": "198 Promenade Blvd",
+          "address2": null,
+          "city": "Flowood",
+          "state": "MS",
+          "postcode": "39208",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016359"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ms01"
+        }
+      }
+    },
+    {
+      "id": 46016697,
+      "organization_id": "CA2256",
+      "url": "https:\/\/www.petfinder.com\/cat\/thelma-46016697\/ca\/los-alamitos\/the-cat-cove-ca2256\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Thelma",
+      "description": "You can fill out an adoption application online on our official website.",
+      "photos": [],
+      "status": "adopted",
+      "status_changed_at": "2019-09-18T05:34:46+0000",
+      "published_at": "2019-09-18T05:34:46+0000",
+      "distance": null,
+      "contact": {
+        "email": "catcoverescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Los Alamitos",
+          "state": "CA",
+          "postcode": "90720",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016697"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2256"
+        }
+      }
+    },
+    {
+      "id": 46016695,
+      "organization_id": "CA2256",
+      "url": "https:\/\/www.petfinder.com\/cat\/chuckles-46016695\/ca\/los-alamitos\/the-cat-cove-ca2256\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Medium Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black & White \/ Tuxedo",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Chuckles",
+      "description": "You can fill out an adoption application online on our official website.",
+      "photos": [],
+      "status": "adopted",
+      "status_changed_at": "2019-09-18T05:34:45+0000",
+      "published_at": "2019-09-18T05:34:45+0000",
+      "distance": null,
+      "contact": {
+        "email": "catcoverescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Los Alamitos",
+          "state": "CA",
+          "postcode": "90720",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016695"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2256"
+        }
+      }
+    },
+    {
+      "id": 46016696,
+      "organization_id": "CA2256",
+      "url": "https:\/\/www.petfinder.com\/cat\/missy-smith-46016696\/ca\/los-alamitos\/the-cat-cove-ca2256\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black & White \/ Tuxedo",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Missy Smith",
+      "description": "You can fill out an adoption application online on our official website.",
+      "photos": [],
+      "status": "adopted",
+      "status_changed_at": "2019-09-18T05:34:45+0000",
+      "published_at": "2019-09-18T05:34:45+0000",
+      "distance": null,
+      "contact": {
+        "email": "catcoverescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Los Alamitos",
+          "state": "CA",
+          "postcode": "90720",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016696"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2256"
+        }
+      }
+    },
+    {
+      "id": 46016689,
+      "organization_id": "LA384",
+      "url": "https:\/\/www.petfinder.com\/cat\/ash-46016689\/la\/baton-rouge\/forgotten-felines-rescue-la384\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown \/ Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Ash",
+      "description": "Meet Ash short for Ashtray! This handsome 12 week old definitely fits to his TV show counterpart! He is hilarious...",
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:30:21+0000",
+      "published_at": "2019-09-18T05:30:21+0000",
+      "distance": null,
+      "contact": {
+        "email": "forgottenfelinesla@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Baton Rouge",
+          "state": "LA",
+          "postcode": "70809",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016689"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/la384"
+        }
+      }
+    },
+    {
+      "id": 46016686,
+      "organization_id": "MA77",
+      "url": "https:\/\/www.petfinder.com\/cat\/emile-46016686\/ma\/jamaica-plain\/second-chance-shelter-for-cats-ma77\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tuxedo",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black & White \/ Tuxedo",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": false
+      },
+      "tags": [],
+      "name": "Emile",
+      "description": "9\/28\/19-Emile was abandoned years ago. He was being fed by various people who must&#039;ve thought it was ok for such...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/1\/?bust=1568784028&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/1\/?bust=1568784028&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/1\/?bust=1568784028&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/1\/?bust=1568784028"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/2\/?bust=1568784041&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/2\/?bust=1568784041&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/2\/?bust=1568784041&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/2\/?bust=1568784041"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/3\/?bust=1568784063&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/3\/?bust=1568784063&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/3\/?bust=1568784063&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/3\/?bust=1568784063"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/4\/?bust=1568784074&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/4\/?bust=1568784074&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/4\/?bust=1568784074&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016686\/4\/?bust=1568784074"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:30:13+0000",
+      "published_at": "2019-09-18T05:30:13+0000",
+      "distance": null,
+      "contact": {
+        "email": "sheerak@verizon.net",
+        "phone": "(617) 522-1852",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Jamaica Plain",
+          "state": "MA",
+          "postcode": "02130",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016686"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ma77"
+        }
+      }
+    },
+    {
+      "id": 46016687,
+      "organization_id": "GA821",
+      "url": "https:\/\/www.petfinder.com\/cat\/shiner-bock-gorgeous-sweet-loving-playful-5-month-old-cream-point-siamese-boy-46016687\/ny\/south-salem\/second-hand-siamese-ga821\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Siamese",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Cream \/ Ivory",
+        "secondary": "Cream Point",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Sweet",
+        "Loving",
+        "Playful",
+        "Active",
+        "Friendly",
+        "Affectionate"
+      ],
+      "name": "SHINER BOCK - Gorgeous, Sweet, Loving, Playful, 5-Month-Old, Cream Point Siamese Boy!",
+      "description": "SHINER BOCK (yes, named after the beer) is a sweet and loving Cream Point Siamese boy.  At just 5 months...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016687\/1\/?bust=1568784098&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016687\/1\/?bust=1568784098&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016687\/1\/?bust=1568784098&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016687\/1\/?bust=1568784098"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:25:37+0000",
+      "published_at": "2019-09-18T05:25:37+0000",
+      "distance": null,
+      "contact": {
+        "email": "secondhandsiamese2@gmail.com",
+        "phone": "9144413239",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "South Salem",
+          "state": "NY",
+          "postcode": "10590",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016687"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ga821"
+        }
+      }
+    },
+    {
+      "id": 46016688,
+      "organization_id": "KY423",
+      "url": "https:\/\/www.petfinder.com\/cat\/bindi-sue-46016688\/ky\/louisville\/no-kill-louisville-ky423\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tortoiseshell",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tortoiseshell",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Bindi Sue",
+      "description": "Meet Bindi Sue. \nThis beautiful kitten was rescued from a very rural shelter with her mom, brothers, and sisters at...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/1\/?bust=1568784200&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/1\/?bust=1568784200&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/1\/?bust=1568784200&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/1\/?bust=1568784200"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/2\/?bust=1568784215&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/2\/?bust=1568784215&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/2\/?bust=1568784215&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/2\/?bust=1568784215"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/3\/?bust=1568784225&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/3\/?bust=1568784225&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/3\/?bust=1568784225&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016688\/3\/?bust=1568784225"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:24:04+0000",
+      "published_at": "2019-09-18T05:24:04+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@nokill-louisville.com",
+        "phone": "please use e-mail  ",
+        "address": {
+          "address1": "P.O. Box 6655",
+          "address2": null,
+          "city": "Louisville",
+          "state": "KY",
+          "postcode": "40206",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016688"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ky423"
+        }
+      }
+    },
+    {
+      "id": 46016674,
+      "organization_id": "LA384",
+      "url": "https:\/\/www.petfinder.com\/cat\/fezco-46016674\/la\/baton-rouge\/forgotten-felines-rescue-la384\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown \/ Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Fezco",
+      "description": "Meet Fezco! This handsome 4-month-old is the sweetest gentlemen you will ever meet! He LOVES people and is such a...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016674\/1\/?bust=1568783907&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016674\/1\/?bust=1568783907&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016674\/1\/?bust=1568783907&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016674\/1\/?bust=1568783907"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016674\/2\/?bust=1568783909&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016674\/2\/?bust=1568783909&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016674\/2\/?bust=1568783909&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016674\/2\/?bust=1568783909"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:23:41+0000",
+      "published_at": "2019-09-18T05:23:41+0000",
+      "distance": null,
+      "contact": {
+        "email": "forgottenfelinesla@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Baton Rouge",
+          "state": "LA",
+          "postcode": "70809",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016674"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/la384"
+        }
+      }
+    },
+    {
+      "id": 46016675,
+      "organization_id": "CA487",
+      "url": "https:\/\/www.petfinder.com\/cat\/kiki-46016675\/ca\/tracy\/east-of-eden-canine-rescue-ca487\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Kiki",
+      "description": "Est date of birth: 3\/4\/19. Kiki is an adorably fun and loving kitty looking for her forever home.  If you...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016675\/2\/?bust=1568783927&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016675\/2\/?bust=1568783927&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016675\/2\/?bust=1568783927&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016675\/2\/?bust=1568783927"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016675\/1\/?bust=1568783922&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016675\/1\/?bust=1568783922&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016675\/1\/?bust=1568783922&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016675\/1\/?bust=1568783922"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:19:25+0000",
+      "published_at": "2019-09-18T05:19:25+0000",
+      "distance": null,
+      "contact": {
+        "email": "ssavage37@gmail.com",
+        "phone": "925-980-3035",
+        "address": {
+          "address1": "2477 Naglee Rd",
+          "address2": null,
+          "city": "Tracy",
+          "state": "CA",
+          "postcode": "95304",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016675"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca487"
+        }
+      }
+    },
+    {
+      "id": 46016683,
+      "organization_id": "CA2256",
+      "url": "https:\/\/www.petfinder.com\/cat\/tootsie-46016683\/ca\/los-alamitos\/the-cat-cove-ca2256\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Buff \/ Tan \/ Fawn",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Tootsie",
+      "description": "You can fill out an adoption application online on our official website.",
+      "photos": [],
+      "status": "adopted",
+      "status_changed_at": "2019-09-18T05:18:51+0000",
+      "published_at": "2019-09-18T05:18:51+0000",
+      "distance": null,
+      "contact": {
+        "email": "catcoverescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Los Alamitos",
+          "state": "CA",
+          "postcode": "90720",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016683"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2256"
+        }
+      }
+    },
+    {
+      "id": 46016682,
+      "organization_id": "CA2256",
+      "url": "https:\/\/www.petfinder.com\/cat\/kozi-46016682\/ca\/los-alamitos\/the-cat-cove-ca2256\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Kozi",
+      "description": "You can fill out an adoption application online on our official website.",
+      "photos": [],
+      "status": "adopted",
+      "status_changed_at": "2019-09-18T05:18:50+0000",
+      "published_at": "2019-09-18T05:18:50+0000",
+      "distance": null,
+      "contact": {
+        "email": "catcoverescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Los Alamitos",
+          "state": "CA",
+          "postcode": "90720",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016682"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2256"
+        }
+      }
+    },
+    {
+      "id": 46016680,
+      "organization_id": "CA2256",
+      "url": "https:\/\/www.petfinder.com\/cat\/layla-46016680\/ca\/los-alamitos\/the-cat-cove-ca2256\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Ragdoll",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Layla",
+      "description": "You can fill out an adoption application online on our official website.",
+      "photos": [],
+      "status": "adopted",
+      "status_changed_at": "2019-09-18T05:18:49+0000",
+      "published_at": "2019-09-18T05:18:49+0000",
+      "distance": null,
+      "contact": {
+        "email": "catcoverescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Los Alamitos",
+          "state": "CA",
+          "postcode": "90720",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016680"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2256"
+        }
+      }
+    },
+    {
+      "id": 46016681,
+      "organization_id": "CA2256",
+      "url": "https:\/\/www.petfinder.com\/cat\/gigi-46016681\/ca\/los-alamitos\/the-cat-cove-ca2256\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Medium Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Gigi",
+      "description": "You can fill out an adoption application online on our official website.",
+      "photos": [],
+      "status": "adopted",
+      "status_changed_at": "2019-09-18T05:18:49+0000",
+      "published_at": "2019-09-18T05:18:49+0000",
+      "distance": null,
+      "contact": {
+        "email": "catcoverescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Los Alamitos",
+          "state": "CA",
+          "postcode": "90720",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016681"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2256"
+        }
+      }
+    },
+    {
+      "id": 46016664,
+      "organization_id": "GA821",
+      "url": "https:\/\/www.petfinder.com\/cat\/sherman-gorgeous-fluffy-sweet-3-year-old-ragdoll-boy-46016664\/ny\/south-salem\/second-hand-siamese-ga821\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Ragdoll",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Chocolate Point",
+        "secondary": "Cream \/ Ivory",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Sweet",
+        "Loving",
+        "Playful",
+        "Happy",
+        "Healthy",
+        "Gentle",
+        "Affectionate",
+        "Soft",
+        "Fluffy"
+      ],
+      "name": "SHERMAN - Gorgeous, Fluffy, Sweet, 3-Year-Old Ragdoll Boy!",
+      "description": "SHERMAN is a sweet and happy Chocolate Point Ragdoll.  At 3-years-old, he has just come into his beautiful Ragdoll coat....",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/1\/?bust=1568783641&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/1\/?bust=1568783641&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/1\/?bust=1568783641&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/1\/?bust=1568783641"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/2\/?bust=1568783644&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/2\/?bust=1568783644&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/2\/?bust=1568783644&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/2\/?bust=1568783644"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/3\/?bust=1568783645&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/3\/?bust=1568783645&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/3\/?bust=1568783645&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016664\/3\/?bust=1568783645"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:16:11+0000",
+      "published_at": "2019-09-18T05:16:11+0000",
+      "distance": null,
+      "contact": {
+        "email": "secondhandsiamese2@gmail.com",
+        "phone": "9144413239",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "South Salem",
+          "state": "NY",
+          "postcode": "10590",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016664"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ga821"
+        }
+      }
+    },
+    {
+      "id": 46016666,
+      "organization_id": "MD247",
+      "url": "https:\/\/www.petfinder.com\/cat\/a496480-46016666\/md\/upper-marlboro\/prince-georges-county-animal-management-division-md247\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "A496480",
+      "description": null,
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:12:30+0000",
+      "published_at": "2019-09-18T05:12:30+0000",
+      "distance": null,
+      "contact": {
+        "email": "derpets@co.pg.md.us",
+        "phone": "(301) 780-7200",
+        "address": {
+          "address1": "3750 Brown Station Rd",
+          "address2": null,
+          "city": "Upper Marlboro",
+          "state": "MD",
+          "postcode": "20772",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016666"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/md247"
+        }
+      }
+    },
+    {
+      "id": 46016667,
+      "organization_id": "CA348",
+      "url": "https:\/\/www.petfinder.com\/cat\/becky-46016667\/ca\/sacramento\/sacramento-county-animal-care-and-regulation-ca348\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "BECKY",
+      "description": "Sweet\/shy kitty looking for a quiet home. Because she is mostly white, she should be an INSIDE ONLY cat. White...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016667\/1\/?bust=1568783674&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016667\/1\/?bust=1568783674&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016667\/1\/?bust=1568783674&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016667\/1\/?bust=1568783674"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:12:29+0000",
+      "published_at": "2019-09-18T05:12:29+0000",
+      "distance": null,
+      "contact": {
+        "email": "CountyAnimalCare@saccounty.net",
+        "phone": null,
+        "address": {
+          "address1": "3839 Bradshaw Road",
+          "address2": null,
+          "city": "Sacramento",
+          "state": "CA",
+          "postcode": "95827",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016667"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca348"
+        }
+      }
+    },
+    {
+      "id": 46016662,
+      "organization_id": "NC1043",
+      "url": "https:\/\/www.petfinder.com\/cat\/parsley-46016662\/nc\/randleman\/pandoras-paws-nc1043\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Gray \/ Blue \/ Silver)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Intelligent",
+        "alert",
+        "playful",
+        "sweet"
+      ],
+      "name": "Parsley",
+      "description": "Parsley- affectionate, playful, gentle, plays well with others, sweet",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016662\/1\/?bust=1568783472&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016662\/1\/?bust=1568783472&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016662\/1\/?bust=1568783472&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46016662\/1\/?bust=1568783472"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T05:12:10+0000",
+      "published_at": "2019-09-18T05:12:10+0000",
+      "distance": null,
+      "contact": {
+        "email": "ppadoptions@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Randleman",
+          "state": "NC",
+          "postcode": "27317",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016662"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/nc1043"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 2690781,
+    "current_page": 1,
+    "total_pages": 134540,
+    "_links": {
+      "next": {
+        "href": "\/v2\/animals?type=Cat&page=2"
+      }
+    }
+  }
+}

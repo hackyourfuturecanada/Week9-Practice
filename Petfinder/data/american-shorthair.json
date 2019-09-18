@@ -1,0 +1,1507 @@
+{
+  "animals": [
+    {
+      "id": 46016415,
+      "organization_id": "VA88",
+      "url": "https:\/\/www.petfinder.com\/cat\/nellie-46016415\/va\/virginia-beach\/virginia-beach-spca-va88\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Nellie",
+      "description": "Nellie (15 years old) is a American Shorthair Cat. This adorable feline is Nellie! She&amp;#39;s incredibly sweet and affectionate, very...",
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T04:00:26+0000",
+      "published_at": "2019-09-18T04:00:26+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoption@vbspca.com",
+        "phone": "(757) 427-0070",
+        "address": {
+          "address1": "3040 Holland Road",
+          "address2": null,
+          "city": "Virginia Beach",
+          "state": "VA",
+          "postcode": "23453",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46016415"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/va88"
+        }
+      }
+    },
+    {
+      "id": 46015333,
+      "organization_id": "CA2165",
+      "url": "https:\/\/www.petfinder.com\/cat\/tux-46015333\/ca\/los-angeles\/nkla-pet-adoption-center-ca2165\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Tux",
+      "description": null,
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T01:03:15+0000",
+      "published_at": "2019-09-18T01:03:15+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@nkla.org",
+        "phone": "424-208-8840  ",
+        "address": {
+          "address1": "1845 Pontius Ave",
+          "address2": null,
+          "city": "Los Angeles",
+          "state": "CA",
+          "postcode": "90025",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46015333"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2165"
+        }
+      }
+    },
+    {
+      "id": 46015332,
+      "organization_id": "CA2165",
+      "url": "https:\/\/www.petfinder.com\/cat\/jessie-46015332\/ca\/los-angeles\/nkla-pet-adoption-center-ca2165\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Jessie",
+      "description": null,
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T01:03:14+0000",
+      "published_at": "2019-09-18T01:03:14+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@nkla.org",
+        "phone": "424-208-8840  ",
+        "address": {
+          "address1": "1845 Pontius Ave",
+          "address2": null,
+          "city": "Los Angeles",
+          "state": "CA",
+          "postcode": "90025",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46015332"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2165"
+        }
+      }
+    },
+    {
+      "id": 46015073,
+      "organization_id": "AL309",
+      "url": "https:\/\/www.petfinder.com\/cat\/duncan-46015073\/al\/huntsville\/friends-of-rescue-for-al309\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": "Tabby",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Gray \/ Blue \/ Silver)",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Duncan",
+      "description": "Duncan is a handsome little Prince Charming. He is a total sweetheart who loves to follow you around and cuddle...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/1\/?bust=1568765619&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/1\/?bust=1568765619&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/1\/?bust=1568765619&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/1\/?bust=1568765619"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/2\/?bust=1568765651&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/2\/?bust=1568765651&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/2\/?bust=1568765651&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/2\/?bust=1568765651"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/3\/?bust=1568765670&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/3\/?bust=1568765670&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/3\/?bust=1568765670&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/3\/?bust=1568765670"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/4\/?bust=1568765695&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/4\/?bust=1568765695&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/4\/?bust=1568765695&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46015073\/4\/?bust=1568765695"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T00:16:37+0000",
+      "published_at": "2019-09-18T00:16:37+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@forrescue.net",
+        "phone": null,
+        "address": {
+          "address1": "PO Box 4976",
+          "address2": null,
+          "city": "Huntsville",
+          "state": "AL",
+          "postcode": "35802",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46015073"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/al309"
+        }
+      }
+    },
+    {
+      "id": 46014978,
+      "organization_id": "CA2095",
+      "url": "https:\/\/www.petfinder.com\/cat\/natalia-46014978\/ca\/santa-paula\/sparc-santa-paula-animal-rescue-center-ca2095\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": "Domestic Short Hair",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Natalia",
+      "description": null,
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014978\/1\/?bust=1568765291&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014978\/1\/?bust=1568765291&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014978\/1\/?bust=1568765291&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014978\/1\/?bust=1568765291"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T00:06:08+0000",
+      "published_at": "2019-09-18T00:06:08+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@santapaulaarc.org",
+        "phone": "(805) 525-8609",
+        "address": {
+          "address1": "705 E. Santa Barbara St.",
+          "address2": null,
+          "city": "Santa Paula",
+          "state": "CA",
+          "postcode": "93060",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46014978"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca2095"
+        }
+      }
+    },
+    {
+      "id": 46014811,
+      "organization_id": "AL309",
+      "url": "https:\/\/www.petfinder.com\/cat\/aria-46014811\/al\/huntsville\/friends-of-rescue-for-al309\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Calico",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Aria",
+      "description": "Aria is such a pretty and sweet little calitabby! She is the smallest and quietest of her siblings, loves to...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/1\/?bust=1568764719&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/1\/?bust=1568764719&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/1\/?bust=1568764719&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/1\/?bust=1568764719"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/2\/?bust=1568764838&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/2\/?bust=1568764838&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/2\/?bust=1568764838&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/2\/?bust=1568764838"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/3\/?bust=1568764850&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/3\/?bust=1568764850&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/3\/?bust=1568764850&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/3\/?bust=1568764850"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/4\/?bust=1568764869&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/4\/?bust=1568764869&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/4\/?bust=1568764869&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014811\/4\/?bust=1568764869"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-18T00:03:15+0000",
+      "published_at": "2019-09-18T00:03:15+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@forrescue.net",
+        "phone": null,
+        "address": {
+          "address1": "PO Box 4976",
+          "address2": null,
+          "city": "Huntsville",
+          "state": "AL",
+          "postcode": "35802",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46014811"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/al309"
+        }
+      }
+    },
+    {
+      "id": 46014742,
+      "organization_id": "CA1011",
+      "url": "https:\/\/www.petfinder.com\/cat\/carly-46014742\/ca\/fullerton\/cats-in-need-of-human-care-ca1011\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tabby",
+        "secondary": "American Shorthair",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Carly",
+      "description": "Carly is a mellow and gentle kitten.  She is friendly, loves attention, melts in your arms when picked up, and...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/1\/?bust=1568763902&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/1\/?bust=1568763902&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/1\/?bust=1568763902&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/1\/?bust=1568763902"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/2\/?bust=1568763911&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/2\/?bust=1568763911&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/2\/?bust=1568763911&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/2\/?bust=1568763911"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/3\/?bust=1568763927&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/3\/?bust=1568763927&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/3\/?bust=1568763927&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/3\/?bust=1568763927"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/4\/?bust=1568763938&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/4\/?bust=1568763938&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/4\/?bust=1568763938&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014742\/4\/?bust=1568763938"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T23:47:35+0000",
+      "published_at": "2019-09-17T23:47:35+0000",
+      "distance": null,
+      "contact": {
+        "email": "catsinneedfullerton@yahoo.com",
+        "phone": "(714) 452-4513",
+        "address": {
+          "address1": "1411 S. Harbor Blvd.",
+          "address2": null,
+          "city": "Fullerton",
+          "state": "CA",
+          "postcode": "92832",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46014742"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca1011"
+        }
+      }
+    },
+    {
+      "id": 46014730,
+      "organization_id": "CA1011",
+      "url": "https:\/\/www.petfinder.com\/cat\/roxy-46014730\/ca\/fullerton\/cats-in-need-of-human-care-ca1011\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black & White \/ Tuxedo",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Roxy",
+      "description": "Roxy is a cute-looking girl.  She is a sweet, gentle and well-mannered kitten.  Her favorite toy is a little mouse....",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/1\/?bust=1568763677&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/1\/?bust=1568763677&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/1\/?bust=1568763677&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/1\/?bust=1568763677"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/2\/?bust=1568763688&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/2\/?bust=1568763688&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/2\/?bust=1568763688&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/2\/?bust=1568763688"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/3\/?bust=1568763705&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/3\/?bust=1568763705&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/3\/?bust=1568763705&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46014730\/3\/?bust=1568763705"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T23:43:07+0000",
+      "published_at": "2019-09-17T23:43:07+0000",
+      "distance": null,
+      "contact": {
+        "email": "catsinneedfullerton@yahoo.com",
+        "phone": "(714) 452-4513",
+        "address": {
+          "address1": "1411 S. Harbor Blvd.",
+          "address2": null,
+          "city": "Fullerton",
+          "state": "CA",
+          "postcode": "92832",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46014730"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ca1011"
+        }
+      }
+    },
+    {
+      "id": 46013675,
+      "organization_id": "NY1336",
+      "url": "https:\/\/www.petfinder.com\/cat\/raven-46013675\/ny\/huntington\/pioneers-for-animal-welfare-society-inc-paws-ny1336\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black & White \/ Tuxedo",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "sweet",
+        "affectionate"
+      ],
+      "name": "Raven",
+      "description": "This sweetheart needs a new home.  Her senior mom is terminal and she is desperate to find a safe place...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46013675\/1\/?bust=1568756898&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46013675\/1\/?bust=1568756898&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46013675\/1\/?bust=1568756898&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46013675\/1\/?bust=1568756898"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T21:48:49+0000",
+      "published_at": "2019-09-17T21:48:49+0000",
+      "distance": null,
+      "contact": {
+        "email": "Adoptions@paws-li.org",
+        "phone": "(631) 306-4616",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Huntington",
+          "state": "NY",
+          "postcode": "11743",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46013675"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ny1336"
+        }
+      }
+    },
+    {
+      "id": 46013623,
+      "organization_id": "NY1336",
+      "url": "https:\/\/www.petfinder.com\/cat\/sasha-46013623\/ny\/huntington\/pioneers-for-animal-welfare-society-inc-paws-ny1336\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "sweet",
+        "affectionate"
+      ],
+      "name": "Sasha",
+      "description": "This sweetheart needs a new home.  His senior mom is terminal and she is desperate to find a safe place...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46013623\/1\/?bust=1568756452&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46013623\/1\/?bust=1568756452&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46013623\/1\/?bust=1568756452&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46013623\/1\/?bust=1568756452"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T21:41:38+0000",
+      "published_at": "2019-09-17T21:41:38+0000",
+      "distance": null,
+      "contact": {
+        "email": "Adoptions@paws-li.org",
+        "phone": "(631) 306-4616",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Huntington",
+          "state": "NY",
+          "postcode": "11743",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46013623"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/ny1336"
+        }
+      }
+    },
+    {
+      "id": 46012984,
+      "organization_id": "FL679",
+      "url": "https:\/\/www.petfinder.com\/cat\/ivy-46012984\/fl\/palm-harbor\/suncoast-animal-league-fl679\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Buff \/ Tan \/ Fawn)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": false
+      },
+      "tags": [],
+      "name": "Ivy",
+      "description": "Hey there I&#039;m Ivy..although some of my friends say I should have been named Cathy because I sure do love...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012984\/1\/?bust=1568753566&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012984\/1\/?bust=1568753566&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012984\/1\/?bust=1568753566&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012984\/1\/?bust=1568753566"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T20:59:03+0000",
+      "published_at": "2019-09-17T20:59:03+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@suncoastanimalleague.org",
+        "phone": "(727) 786-1330",
+        "address": {
+          "address1": "1030 Pennsylvania Ave.",
+          "address2": null,
+          "city": "Palm Harbor",
+          "state": "FL",
+          "postcode": "34684",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46012984"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/fl679"
+        }
+      }
+    },
+    {
+      "id": 46013007,
+      "organization_id": "TX1334",
+      "url": "https:\/\/www.petfinder.com\/cat\/leia-46013007\/tx\/austin\/austin-siamese-rescue-tx1334\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Leia",
+      "description": "You can fill out an adoption application online on our official website.I am a HOOT! I am a doulbe adoption...",
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T20:54:54+0000",
+      "published_at": "2019-09-17T20:54:54+0000",
+      "distance": null,
+      "contact": {
+        "email": "loveasiamese2@yahoo.com",
+        "phone": "512-354-7875",
+        "address": {
+          "address1": "P.O. Box 13474",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78711",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46013007"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/tx1334"
+        }
+      }
+    },
+    {
+      "id": 46012906,
+      "organization_id": "FL679",
+      "url": "https:\/\/www.petfinder.com\/cat\/dudley-46012906\/fl\/palm-harbor\/suncoast-animal-league-fl679\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown \/ Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Dudley",
+      "description": "Hi I&#039;m Dudley.  I am a 4 year old cutie who weighs 14 lbs.  I&#039;m very affectionate but it takes...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012906\/1\/?bust=1568752822&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012906\/1\/?bust=1568752822&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012906\/1\/?bust=1568752822&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012906\/1\/?bust=1568752822"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T20:50:56+0000",
+      "published_at": "2019-09-17T20:50:56+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@suncoastanimalleague.org",
+        "phone": "(727) 786-1330",
+        "address": {
+          "address1": "1030 Pennsylvania Ave.",
+          "address2": null,
+          "city": "Palm Harbor",
+          "state": "FL",
+          "postcode": "34684",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46012906"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/fl679"
+        }
+      }
+    },
+    {
+      "id": 46012919,
+      "organization_id": "TX1334",
+      "url": "https:\/\/www.petfinder.com\/cat\/ash-46012919\/tx\/austin\/austin-siamese-rescue-tx1334\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Ash",
+      "description": "You can fill out an adoption application online on our official website.I have been through a lot in my short...",
+      "photos": [],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T20:40:05+0000",
+      "published_at": "2019-09-17T20:40:05+0000",
+      "distance": null,
+      "contact": {
+        "email": "loveasiamese2@yahoo.com",
+        "phone": "512-354-7875",
+        "address": {
+          "address1": "P.O. Box 13474",
+          "address2": null,
+          "city": "Austin",
+          "state": "TX",
+          "postcode": "78711",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46012919"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/tx1334"
+        }
+      }
+    },
+    {
+      "id": 46012208,
+      "organization_id": "PA524",
+      "url": "https:\/\/www.petfinder.com\/cat\/lester-46012208\/pa\/richboro\/royces-rescue-pa524\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Gray & White",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [
+        "Loving",
+        "Playful"
+      ],
+      "name": "Lester",
+      "description": "Lester is a playful and loving kitten who would be a great member of any family.  He loves attention and...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012208\/1\/?bust=1568749016&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012208\/1\/?bust=1568749016&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012208\/1\/?bust=1568749016&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012208\/1\/?bust=1568749016"
+        },
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012208\/2\/?bust=1568749019&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012208\/2\/?bust=1568749019&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012208\/2\/?bust=1568749019&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012208\/2\/?bust=1568749019"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T19:37:25+0000",
+      "published_at": "2019-09-17T19:37:25+0000",
+      "distance": null,
+      "contact": {
+        "email": "linsatter@verizon.net",
+        "phone": "215-801-6398 ",
+        "address": {
+          "address1": "374 Worthington Mill Road",
+          "address2": null,
+          "city": "Richboro",
+          "state": "PA",
+          "postcode": "18954",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46012208"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa524"
+        }
+      }
+    },
+    {
+      "id": 46012202,
+      "organization_id": "PA524",
+      "url": "https:\/\/www.petfinder.com\/cat\/leo-46012202\/pa\/richboro\/royces-rescue-pa524\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [
+        "Loving",
+        "Playful"
+      ],
+      "name": "Leo",
+      "description": "Leo is a very sweet kitten full of love and fun.  He would be a great playmate!\nDetails:  Male, Black...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012202\/1\/?bust=1568748923&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012202\/1\/?bust=1568748923&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012202\/1\/?bust=1568748923&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012202\/1\/?bust=1568748923"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T19:35:52+0000",
+      "published_at": "2019-09-17T19:35:52+0000",
+      "distance": null,
+      "contact": {
+        "email": "linsatter@verizon.net",
+        "phone": "215-801-6398 ",
+        "address": {
+          "address1": "374 Worthington Mill Road",
+          "address2": null,
+          "city": "Richboro",
+          "state": "PA",
+          "postcode": "18954",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46012202"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa524"
+        }
+      }
+    },
+    {
+      "id": 46012192,
+      "organization_id": "PA524",
+      "url": "https:\/\/www.petfinder.com\/cat\/loretta-46012192\/pa\/richboro\/royces-rescue-pa524\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [
+        "Loving",
+        "Playful"
+      ],
+      "name": "Loretta",
+      "description": "Loretta is a gorgeous black tabby with pretty green eyes!  She is very gentle and loving, but she also likes...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012192\/1\/?bust=1568748833&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012192\/1\/?bust=1568748833&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012192\/1\/?bust=1568748833&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012192\/1\/?bust=1568748833"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T19:34:31+0000",
+      "published_at": "2019-09-17T19:34:31+0000",
+      "distance": null,
+      "contact": {
+        "email": "linsatter@verizon.net",
+        "phone": "215-801-6398 ",
+        "address": {
+          "address1": "374 Worthington Mill Road",
+          "address2": null,
+          "city": "Richboro",
+          "state": "PA",
+          "postcode": "18954",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46012192"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/pa524"
+        }
+      }
+    },
+    {
+      "id": 46011483,
+      "organization_id": "FL679",
+      "url": "https:\/\/www.petfinder.com\/cat\/kisses-46011483\/fl\/palm-harbor\/suncoast-animal-league-fl679\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Senior",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Kisses",
+      "description": "Hi my name is Kisses.  I am an all black girl with only one, single white whisker!  You cat to...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46011483\/1\/?bust=1568747035&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46011483\/1\/?bust=1568747035&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46011483\/1\/?bust=1568747035&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46011483\/1\/?bust=1568747035"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T19:30:38+0000",
+      "published_at": "2019-09-17T19:30:38+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@suncoastanimalleague.org",
+        "phone": "(727) 786-1330",
+        "address": {
+          "address1": "1030 Pennsylvania Ave.",
+          "address2": null,
+          "city": "Palm Harbor",
+          "state": "FL",
+          "postcode": "34684",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46011483"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/fl679"
+        }
+      }
+    },
+    {
+      "id": 46012078,
+      "organization_id": "NC271",
+      "url": "https:\/\/www.petfinder.com\/cat\/catey-46012078\/nc\/asheville\/furever-friends-animal-rescue-network-nc271\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Gray \/ Blue \/ Silver)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Catey",
+      "description": "Catey is a playful tabbie who loves high spaces and snuggly caves to sleep in.",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012078\/1\/?bust=1568748016&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012078\/1\/?bust=1568748016&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012078\/1\/?bust=1568748016&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012078\/1\/?bust=1568748016"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T19:27:26+0000",
+      "published_at": "2019-09-17T19:27:26+0000",
+      "distance": null,
+      "contact": {
+        "email": "BarbFEF@gmail.com",
+        "phone": "8282435259",
+        "address": {
+          "address1": "244 Tunnel Rd.",
+          "address2": null,
+          "city": "Asheville",
+          "state": "NC",
+          "postcode": "28805",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46012078"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/nc271"
+        }
+      }
+    },
+    {
+      "id": 46012025,
+      "organization_id": "LA407",
+      "url": "https:\/\/www.petfinder.com\/cat\/millie-fee-65-dollars-46012025\/la\/shreveport\/pet-savers-la407\/?referrer_id=3f492746-bb2a-415a-8918-1b3348254428",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "American Shorthair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Millie - Fee $65",
+      "description": "Don&amp;#39;t you just love my coloring? I&amp;#39;m enjoying a lazy afternoon in the cat room. I like to greet people...",
+      "photos": [
+        {
+          "small": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012025\/1\/?bust=1568747873&width=100",
+          "medium": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012025\/1\/?bust=1568747873&width=300",
+          "large": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012025\/1\/?bust=1568747873&width=600",
+          "full": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/46012025\/1\/?bust=1568747873"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2019-09-17T19:13:41+0000",
+      "published_at": "2019-09-17T19:13:41+0000",
+      "distance": null,
+      "contact": {
+        "email": "petsavers@petsaversshreveport.org",
+        "phone": "(318) 636-0400",
+        "address": {
+          "address1": "4380 Noyes Drive",
+          "address2": null,
+          "city": "Shreveport",
+          "state": "LA",
+          "postcode": "71119",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "\/v2\/animals\/46012025"
+        },
+        "type": {
+          "href": "\/v2\/types\/cat"
+        },
+        "organization": {
+          "href": "\/v2\/organizations\/la407"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 42127,
+    "current_page": 1,
+    "total_pages": 2107,
+    "_links": {
+      "next": {
+        "href": "\/v2\/animals?breed=American%20Shorthair&page=2"
+      }
+    }
+  }
+}
