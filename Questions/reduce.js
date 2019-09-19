@@ -1,6 +1,5 @@
 // Bonus: Reduce questions
-// Besides the first question, these are more advanced concepts we haven't really covered in class
-// Don't be worried if you don't understand them right now
+// Don't be worried if you don't understand these right now
 const pets = [{
     name: 'Cameron',
     species: 'cat',
@@ -40,7 +39,7 @@ const petCount = pets.reduce((acc, item) => {
 }, {});
 console.log(petCount);
 
-// Another more complicated method using the spread operator
+// Another method using the spread operator
 // If this doesn't make sense to you, don't worry about it for now!
 const petCount2 = pets.reduce((acc, item) => ({
     ...acc, 
@@ -61,7 +60,7 @@ const petNamesByCategory = pets.reduce((acc, item) => {
 }, {});
 console.log(petNamesByCategory);
 
-// Another more complicated method using the spread operator
+// Another method using the spread operator
 // If this doesn't make sense to you, don't worry about it for now!
 const petNamesByCategory2 = pets.reduce((acc, item) => ({
     ...acc,
