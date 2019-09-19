@@ -52,8 +52,8 @@ const cats = [
     {name: 'Creme Puff', age: 30}
     ];
 
- // This answer uses the ES6 spread operator to create a copy 
- // with the same properties and values of the current item
+ // This answer uses the ES6 spread operator to create a copy of the object
+ // with the same properties and values of the current object
  // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 const kittens = cats.map(item => {
     if (item.age <= 1){

@@ -1,3 +1,4 @@
+// Filter questions
 const pets = [{
     name: 'Cameron',
     species: 'cat'

@@ -1,4 +1,6 @@
 // Bonus: Reduce questions
+// Besides the first question, these are more advanced concepts we haven't really covered in class
+// Don't be worried if you don't understand them right now
 const pets = [{
     name: 'Cameron',
     species: 'cat',
